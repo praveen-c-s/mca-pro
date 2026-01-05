@@ -1,4 +1,5 @@
 hello world
+<<<<<<< HEAD
 HEAD
  HEAD
 
@@ -12,3 +13,7 @@ adding extra line
 
 something new
  7db3636 (commiting with bv1)
+=======
+something new
+adding extra line
+>>>>>>> 0d0b8b7 (extra bv1)
