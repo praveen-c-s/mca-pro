@@ -1,5 +1,10 @@
 hello world
+<<<<<<< HEAD
 
 mca
-
+  helrrrrr
 adding extra main
+=======
+something new
+adding extra line
+>>>>>>> bv1
