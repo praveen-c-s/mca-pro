@@ -1,10 +1,14 @@
 hello world
-<<<<<<< HEAD
+HEAD
+ HEAD
 
 mca
   helrrrrr
 adding extra main
-=======
+
 something new
 adding extra line
->>>>>>> bv1
+ bv1
+
+something new
+ 7db3636 (commiting with bv1)
